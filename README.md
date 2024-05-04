@@ -16,7 +16,9 @@
 
 ## <div align="center"> ✏️blog </div>
 <div align="center"> 
-  <img src="https://img.shields.io/badge/blog-20232a.svg?style=for-the-badge&logo=tistory&logoColor=61DAFB" /> 
+  <a href="https://pshistory.tistory.com">
+    <img src="https://img.shields.io/badge/blog-20232a.svg?style=for-the-badge&logo=tistory&logoColor=61DAFB" /> 
+  </a>
 </div><br><br>
 
 ## <div align="center"> 📈stats </div>
